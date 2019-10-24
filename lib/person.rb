@@ -7,6 +7,8 @@ class Person
    def initialize(attr)
      attr.each{}
      
+   end
+     
    end 
   
 end
