@@ -5,7 +5,7 @@ class Person
                 :wrist_size, :glove_size, :pant_length, :pant_width
    
    def initialize(attr)
-     attr.each do |hash,  |
+     attr.each do |key, value |
      
    end 
   
