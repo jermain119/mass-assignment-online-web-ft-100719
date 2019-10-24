@@ -6,7 +6,7 @@ class Person
    
    def initialize(attr)
      attr.each do |key, value |
-       atrr.send
+       self.send
      
    end 
   
