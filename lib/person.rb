@@ -5,9 +5,7 @@ class Person
                 :wrist_size, :glove_size, :pant_length, :pant_width
    
    def initialize(attr)
-     attr.each{}
-     
-   end
+     attr.each do | |
      
    end 
   
